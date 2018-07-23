@@ -1,5 +1,5 @@
 # BookingTicketForTheBus
-Ticket booking system for the bus.
+Tickets booking system for the bus.
 
 The program has been implemented for 5 cities and a coach with 20 seats, both of these values ​​can be changed easily, giving a larger number of cities or increasing seats in the bus.
 
